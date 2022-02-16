@@ -8,4 +8,4 @@
 - ✨ I really like well implemented and functional automation. 
 - 👀 I'm super into optimization, both on the IaC and CI/CD of microservices.
 - 🕹️ I love videogames and everything related to them - emulation, romhacking, homebrews, ports, so on.
-- 🗣️ I speak both Brazilian and  English Portuguese.
+- 🗣️ I speak both Brazilian Portuguese and English.
