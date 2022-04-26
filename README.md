@@ -2,7 +2,7 @@
 
 ### What do you need to know about me:
 
-- 🛠️ DevOps @ Tata Consultancy Service / Bradesco
+- 🛠️ DevOps @ Encora inc. / Avid
 - 👨‍💻 For the past 2 years I have been working as a DevOps analyst, engineer, etc (mostly on outsourcing projects).
 - 📘 Currently learning some AWS stuff.
 - ✨ I really like well implemented and functional automation. 
